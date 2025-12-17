@@ -395,3 +395,13 @@ body {
         grid-template-columns: 1fr;
     }
 }
+
+.pub-link .ai {
+    font-family: "Academicons";
+    font-size: 1.05em;
+    color: var(--accent-color);
+}
+
+.pub-link:hover .ai {
+    color: white;
+}
