@@ -266,6 +266,11 @@ body {
     margin-bottom: 0.3rem;
 }
 
+.author-note {
+    font-size: 0.85em;
+    color: var(--text-secondary);
+}
+
 .publication-venue {
     font-size: 0.9rem;
     color: var(--accent-color);
